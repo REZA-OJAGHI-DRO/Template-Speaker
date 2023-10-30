@@ -2,7 +2,7 @@
 
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
 
-![Screenshot (2)](https://github.com/REZA-OJAGHI-DRO/TEMPLATE-Hairdresser/assets/145910720/a6c6add3-093a-416d-a1e2-172a5d92f9cc)
+![Screenshot (5)](https://github.com/REZA-OJAGHI-DRO/Template-Speaker/assets/145910720/2be96fdb-21d1-439e-8f5d-15d9b66b6ff0)
 
 - [Demo Project](https://reza-ojaghi-dro.github.io/TEMPLATE-Hairdresser/)
 
